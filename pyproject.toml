@@ -1,6 +1,6 @@
 [project]
 name = "packaging_with_uv_elliotwutingfeng"
-version = "0.0.1"
+version = "0.0.2"
 description = "Packaging with uv demo"
 keywords = [
     "keyword",
